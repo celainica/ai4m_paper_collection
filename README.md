@@ -1,1 +1,1 @@
-# ai4m_paper_collection
+Summary of papers for personal uses.
